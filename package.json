@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "bullmq": "5.4.3"
+  },
+  "devDependencies": {
+    "@types/bull": "4.10.0"
   }
 }
